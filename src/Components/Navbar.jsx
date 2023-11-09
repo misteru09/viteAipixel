@@ -1,6 +1,6 @@
 
 import { Link } from "react-router-dom"
-// import navlogo from "../assets/navlogo.png"
+import navlogo from "../assets/Mask/arkan.jpg"
 // Link
 export default function Navbar() {
   return (
@@ -10,24 +10,22 @@ export default function Navbar() {
       <div className="flex flex-wrap items-center justify-between py-6 gap-6 md:py-4 md:gap-0 relative">
         <input
           type="checkbox"
-          name="toggle_nav"
+          name="toggle_znav"
           id="toggle_nav"
           className="peer hidden"
         />
         <div className="w-full flex justify-between md:w-max md:px-0">
           <Link to="/" aria-label="logo">
-            {/* <img
+            <img
               src={navlogo}
+
               className="w-[5rem] grayscale "
               alt="Arkan logo"
-              width={144}
+              className="w-[4rem] grayscale absolute z-10  top-1 left-3"
+              alt="aipixel"              width={144}
               height={68}
-            /> */}
-<p className="font-bold text-[30px] relative ml-5">
+            />
 
-أركان
-
-</p>
 
           </Link>
           <div className="flex items-center md:hidden max-h-10">
