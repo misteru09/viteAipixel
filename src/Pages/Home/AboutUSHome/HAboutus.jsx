@@ -29,7 +29,7 @@ export default function HAboutus() {
           </h2>
          
           <p className="mb-4 font-medium tracking-tight text-gray-400 xl:mb-6">
-          "At AIPIXEL, we specialize in bringing your innovative dreams to digital life. Our experienced team is dedicated to crafting custom software solutions that turn your vision into a successful reality.
+          "At Arkan, we specialize in bringing your innovative dreams to digital life. Our experienced team is dedicated to crafting custom software solutions that turn your vision into a successful reality.
           </p>
 
           <span className="f-center float-right">

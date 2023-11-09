@@ -6,19 +6,19 @@ export default function ComponentHero() {
       id: 1,
       imgSrc: 'https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_400x400.jpg',
       name: 'Dimtry Ceban',
-      description: 'AIPixel houses the industry\'s premier web development team, setting the highest standard for excellence.',
+      description: 'Arkan houses the industry\'s premier web development team, setting the highest standard for excellence.',
     },
     {
       id: 2,
       imgSrc: 'https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_400x400.jpg',
       name: 'Dimtry Ceban',
-      description: 'AIPixel houses the industry\'s premier web development team, setting the highest standard for excellence.',
+      description: 'Arkan houses the industry\'s premier web development team, setting the highest standard for excellence.',
     },
     {
       id: 3,
       imgSrc: 'https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_400x400.jpg',
       name: 'Dimtry Ceban',
-      description: 'AIPixel houses the industry\'s premier web development team, setting the highest standard for excellence.',
+      description: 'Arkan houses the industry\'s premier web development team, setting the highest standard for excellence.',
     },
     // Add more data objects for additional elements
   ];
@@ -379,7 +379,7 @@ export default function ComponentHero() {
                   </div>
                 </div>
                 <p className="leading-normal  text-black text-md">
-                "AIPixel houses the industry's premier web development team, setting the highest standard for excellence."
+                "Arkan houses the industry's premier web development team, setting the highest standard for excellence."
                 </p>
               </div>
             </a>
@@ -410,7 +410,7 @@ export default function ComponentHero() {
                   </div>
                 </div>
                 <p className="leading-normal  text-black text-md">
-                AIPixel houses the industry's premier web development team, setting the highest standard for excellence.
+                Arkan houses the industry's premier web development team, setting the highest standard for excellence.
                 </p>
               </div>
             </a>

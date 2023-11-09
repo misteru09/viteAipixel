@@ -36,9 +36,7 @@ export default function ServiceSkills() {
                   Android Development
                 </h3>
                 <p className="mb-6 text-gray-600 shark:text-gray-300">
-                  Obcaecati, quam? Eligendi, nulla numquam natus laborum porro
-                  at cum, consectetur ullam tempora ipsa iste officia sed
-                  officiis! Incidunt ea animi officiis.
+                Arkan's Android development services are tailored to help you create innovative and engaging apps that will reach the world's largest mobile audience. Our team of experienced developers has a deep understanding of the Android platform and is constantly up-to-date on the latest trends and technologies. 
                 </p>
                 <a href="#" className="block font-medium text-primary">
                   Know more
@@ -65,12 +63,10 @@ export default function ServiceSkills() {
             >
               <div className="mb-12 space-y-4">
                 <h3 className="text-2xl font-semibold text-gray-800 shark:text-white">
-                  ios Development
+                  IOS Development
                 </h3>
                 <p className="mb-6 text-gray-600 shark:text-gray-300">
-                  Obcaecati, quam? Eligendi, nulla numquam natus laborum porro
-                  at cum, consectetur ullam tempora ipsa iste officia sed
-                  officiis! Incidunt ea animi officiis.
+                Arkan's iOS development services are designed to help you create cutting-edge apps that leverage the full power of the iOS platform. Our team of expert developers has extensive experience in developing apps for all types of iOS devices, from iPhones and iPads to Apple Watches and AirPods. We work with our clients to create apps that are visually stunning, user-friendly, and feature-rich.
                 </p>
                 <a href="#" className="block font-medium text-primary">
                   Know more
@@ -100,9 +96,7 @@ export default function ServiceSkills() {
                   Web App Development
                 </h3>
                 <p className="mb-6 text-gray-600 shark:text-gray-300">
-                  Obcaecati, quam? Eligendi, nulla numquam natus laborum porro
-                  at cum, consectetur ullam tempora ipsa iste officia sed
-                  officiis! Incidunt ea animi officiis.
+                Arkan's web development services help you create dynamic and engaging websites that will showcase your brand and connect you with your target audience. We offer a wide range of web development services, including custom web design and development, content management system (CMS) development, and e-commerce development. 
                 </p>
                 <a href="#" className="block font-medium text-primary">
                   Know more
@@ -137,10 +131,7 @@ export default function ServiceSkills() {
                   UI / UX
                 </h3>
                 <p className="mb-6 text-gray-600 shark:text-gray-300">
-                  Obcaecati, quam? Eligendi, nulla numquam natus laborum porro
-                  at cum, consectetur ullam tempora ipsa iste officia sed
-                  officiis! Incidunt ea animi officiis.
-                </p>
+                Arkan's UI/UX design services help you create user interfaces that are both visually appealing and easy to use. We understand that the user experience is essential to the success of any app or website, and we work with our clients to develop UI/UX designs that are both visually appealing and functional.                 </p>
                 <a href="#" className="block font-medium text-primary">
                   Know more
                 </a>
@@ -167,12 +158,10 @@ export default function ServiceSkills() {
             >
               <div className="mb-12 space-y-4">
                 <h3 className="text-2xl font-semibold text-gray-800 shark:text-white">
-                  Inventory Software
+                Custom Software Development
                 </h3>
                 <p className="mb-6 text-gray-600 shark:text-gray-300">
-                  Obcaecati, quam? Eligendi, nulla numquam natus laborum porro
-                  at cum, consectetur ullam tempora ipsa iste officia sed
-                  officiis! Incidunt ea animi officiis.
+                Arkan's custom software development services help you create powerful and scalable software solutions that meet your unique business needs. We have a proven track record of developing custom software for a wide range of industries, including healthcare, finance, and retail. 
                 </p>
                 <a href="#" className="block font-medium text-primary">
                   Know more

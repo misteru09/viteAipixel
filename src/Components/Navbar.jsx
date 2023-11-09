@@ -19,7 +19,7 @@ export default function Navbar() {
             {/* <img
               src={navlogo}
               className="w-[5rem] grayscale "
-              alt="aipixel logo"
+              alt="Arkan logo"
               width={144}
               height={68}
             /> */}
@@ -66,7 +66,7 @@ export default function Navbar() {
               {/* <img
                 src={navlogo}
                 className="w-36 grayscale contrast-200"
-                alt="aipixel logo"
+                alt="Arkan logo"
                 width={144}
                 height={68}
               /> */}

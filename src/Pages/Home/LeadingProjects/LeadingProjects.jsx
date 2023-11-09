@@ -17,7 +17,7 @@ export default function LeadingProjects() {
           </p>
           <h2 className="max-w-2xl mt-3 text-[19px] font-bold leading-snug tracking-tight text-gray-800 lg:leading-tight lg:text-[19px] dak:text-white">
             Empowering Clients Globally with thier Products, Meticulously
-            Crafted and Developed by AIPIXEL
+            Crafted and Developed by Arkan
           </h2>
         </div>
         <div

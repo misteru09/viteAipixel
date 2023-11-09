@@ -46,7 +46,7 @@ export default function Hero() {
             <span className="block w-14 mb-2 border-b-2 border-gray-600" />
           </span>
           <p className="text-[16px] text-gray-700 shark:text-gray-300 text-center flex justify-center focus-in-expand">
-            Innovative Solutions | Software Development | Cloud Migration.
+            Innovative Solutions | Software Development | Digital Marketing 
           </p>
         </div>
       </div>
